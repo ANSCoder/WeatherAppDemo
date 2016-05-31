@@ -1,0 +1,6 @@
+framework module Pods_SoapParsingUITests {
+  umbrella header "Pods-SoapParsingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

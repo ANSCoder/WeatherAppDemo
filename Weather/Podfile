@@ -1,0 +1,24 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, ‘8.0’
+ 
+ source 'https://github.com/CocoaPods/Specs.git'
+
+target 'SoapParsing' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire'
+  pod 'SWXMLHash', :git => 'https://github.com/drmohundro/SWXMLHash'
+
+  # Pods for SoapParsing
+
+  target 'SoapParsingTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'SoapParsingUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

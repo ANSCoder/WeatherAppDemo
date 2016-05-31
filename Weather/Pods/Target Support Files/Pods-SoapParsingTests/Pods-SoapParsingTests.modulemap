@@ -1,0 +1,6 @@
+framework module Pods_SoapParsingTests {
+  umbrella header "Pods-SoapParsingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

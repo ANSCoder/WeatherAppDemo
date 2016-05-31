@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (3.4.0)
+  - SWXMLHash (2.3.1)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire`)
+  - SWXMLHash (from `https://github.com/drmohundro/SWXMLHash`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire
+  SWXMLHash:
+    :git: https://github.com/drmohundro/SWXMLHash
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: fa288a5420f28904f2b63ce24901da9a017ef8c4
+    :git: https://github.com/Alamofire/Alamofire
+  SWXMLHash:
+    :commit: 8c9d152fcd04039b76f3b365a6d48585f454733b
+    :git: https://github.com/drmohundro/SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  SWXMLHash: 795c66e74f4cc9473ad6465c6653c5a6f59f417e
+
+PODFILE CHECKSUM: 789b6d9955c71dbd446e85a57a70bed1d73657e3
+
+COCOAPODS: 1.0.0
