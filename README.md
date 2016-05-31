@@ -1,5 +1,13 @@
 # Weather-App-Demo
 
+![](https://github.com/ANSCoder/Weather-App-Demo/blob/master/Images/Simulator%20Screen%20Shot%2001-Jun-2016%2C%2012.25.11%20AM.png) 
+
+![](https://github.com/ANSCoder/Weather-App-Demo/blob/master/Images/Simulator%20Screen%20Shot%2001-Jun-2016%2C%2012.25.37%20AM.png)
+
+![](https://github.com/ANSCoder/Weather-App-Demo/blob/master/Images/Simulator%20Screen%20Shot%2001-Jun-2016%2C%2012.25.44%20AM.png)
+
+![](https://github.com/ANSCoder/Weather-App-Demo/blob/master/Images/Simulator%20Screen%20Shot%2001-Jun-2016%2C%2012.26.00%20AM.png)
+
 Weather-App-Demo is an weather app demo written in Swift.
 
 ## Features
@@ -65,15 +73,15 @@ Alamofire.request(.GET, is_URL)
             }
        }
 '''
+
+
 ## FAQ
 
 ### What's the origin of the name ANSCoder?
-
-I am independ swift and Objective c developer working for help to other new developers. 
+I am independ Swift 2.2/later and Objective c developer working for help to other new developers. 
 
 ---
 
 ## Credits
-
 Alamofire and SWXMLHash Libraries for make this demo.
 
