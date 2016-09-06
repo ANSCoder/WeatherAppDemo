@@ -46,8 +46,7 @@ Then, run the following command:
 ```bash
 $ pod install
 ``` 
- 
- ### Response Handling with the XML data 
+### Response Handling with the XML data 
  
 ```swift
 Alamofire.request(.GET, is_URL)
@@ -72,10 +71,7 @@ Alamofire.request(.GET, is_URL)
                 enumerate(xmls, level: 0)
             }
        }
-       
-       
 '''
-
 
 ## FAQ
 
