@@ -72,7 +72,7 @@ Alamofire.request(.GET, is_URL)
             }
        }
 '''
-
+'''
 ## FAQ
 
 ### What's the origin of the name ANSCoder?
@@ -82,4 +82,4 @@ I am independ Swift 2.2/later and Objective c developer working for help to othe
 
 ## Credits
 Alamofire and SWXMLHash Libraries for make this demo.
-
+'''
