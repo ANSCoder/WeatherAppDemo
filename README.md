@@ -73,13 +73,4 @@ Alamofire.request(.GET, is_URL)
        }
 ``` 
 
-## FAQ
-
-### What's the origin of the name ANSCoder?
-I am iOS application developer. 
-
----
-
-##Credits
-Alamofire and SWXMLHash Libraries for make this demo.
 
